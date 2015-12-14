@@ -17,7 +17,7 @@ github_username:  chrisamanse
 
 
 # Build settings
-permalink: /:title
+permalink: /:year/:month/:day/:title
 markdown: kramdown
 paginate: 8
 paginate_path: /:num/
