@@ -14,10 +14,8 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
+        {% for link in site.data.navigation %}
+          <a class="page-link" href="{{ link.url | prepend: site.baseurl }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a>
         {% endfor %}
       </div>
     </nav>
