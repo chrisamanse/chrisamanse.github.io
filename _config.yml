@@ -11,7 +11,7 @@ email: christopheramanse@gmail.com
 description: # '>' means to ignore newlines
   Student | iOS Developer | Software Engineer | Open Source Advocate | Computer Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://chrisamanse.me" # the base hostname & protocol for your site
+url: "http://www.chrisamanse.me" # the base hostname & protocol for your site
 twitter_username: ChrisAmanse
 github_username:  chrisamanse
 
