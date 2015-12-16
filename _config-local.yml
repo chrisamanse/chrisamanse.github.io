@@ -15,7 +15,7 @@ url: "http://www.chrisamanse.me" # the base hostname & protocol for your site
 twitter_username: ChrisAmanse
 github_username:  chrisamanse
 
-development_local: true
+disqus_enabled: true
 
 # Build settings
 permalink: /:year/:month/:day/:title
