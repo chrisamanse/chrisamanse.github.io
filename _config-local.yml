@@ -1,26 +1,20 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: Chris Amanse
+header-img: img/home-bg.jpg
 email: christopheramanse@gmail.com
-description: # '>' means to ignore newlines
-  Student | iOS Developer | Software Engineer | Open Source Advocate | Computer Engineer
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.chrisamanse.me" # the base hostname & protocol for your site
+description: "Personal website and blog about iOS development and related software and technology."
+baseurl: ""
+url: "http://www.chrisamanse.me"
 twitter_username: ChrisAmanse
 github_username:  chrisamanse
+facebook_username:  chrisamanse
 
 disqus_enabled: false
 
 # Build settings
-permalink: /:year/:month/:day/:title
 markdown: kramdown
+highlighter: pygments
+permalink: /:year/:month/:day/:title
 paginate: 8
 paginate_path: /:num/
-  
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "LICENSE-Clean-Blog", "README-Clean-Blog.md"]

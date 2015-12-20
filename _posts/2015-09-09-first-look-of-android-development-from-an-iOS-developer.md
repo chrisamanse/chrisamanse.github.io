@@ -5,7 +5,6 @@ date:   2015-09-09 16:00:00 +0800
 categories: Android
 ---
 
-
 As much as I love iOS programming, circumstances have forced me to get into Android development. I have to adjust not only in the programming language, but also in programming style or structure, as Android has a different perspective on how it sees its apps. I'm just getting started with Android, so my opinions here are based from what I have currently learned.
 
 ## Programming Language
