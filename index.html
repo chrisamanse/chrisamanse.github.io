@@ -5,14 +5,13 @@ description: "Personal website and blog about iOS development and related softwa
 
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
-        </h2>
-        <h3 class="post-subtitle">
-            {{ post.excerpt | strip_html | truncate: 150 }}
-        </h3>
-    </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+  <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="post-title">{{ post.title }}</h2></a>
+  <p class="post-subtitle">
+    {{ post.excerpt | strip_html | truncate: 150 }}
+  </p>
+  <p class="post-meta">
+    Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+  </p>
 </div>
 <hr>
 {% endfor %}
