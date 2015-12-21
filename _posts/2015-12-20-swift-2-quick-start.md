@@ -5,7 +5,7 @@ date:   2015-12-20 23:50:00 +0800
 categories: swift programming
 ---
 
-Recently, Apple has open sourced their own programming language, Swift, which is currently in version 2.1. Just after a few days of their release in [GitHub](https://github.com/apple/swift), it became the most popular open sourced programming language. Apple, with contributors worldwide, is continuously developing and improving Swift, thus the more reason for us to start learning Swift. Apple's vision for Swift really is for people to use Swift in all kinds of cases such as web development as well. So, let's start learning Swift.
+Recently, Apple has open sourced their own programming language, Swift, which is currently on version 2.1. Just after a few days of their release in [GitHub](https://github.com/apple/swift), it became the most popular open source programming language. Apple, with contributors worldwide, is continuously developing and improving Swift, thus the more reason for us to start learning Swift. Apple's vision for Swift really is for people to use Swift in all kinds of cases such as web development as well. So, let's start learning Swift.
 
 > This tutorial is for experienced programmers. *If you're beginning to learn programming, the best way to learn with Swift is by reading Apple's official book, [The Swift Programming Language](https://swift.org/documentation/), the official documentation for Swift.*
 
