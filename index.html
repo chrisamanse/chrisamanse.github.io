@@ -5,9 +5,10 @@ description: "Personal website and blog about iOS development and related softwa
 
 {% for post in paginator.posts %}
 <div class="post-preview">
-  <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="post-title">{{ post.title }}</h2></a>
+  {% assign post_url = post.url | prepend: site.baseurl %}
+  <a href="{{ post_url }}"><h2 class="post-title">{{ post.title }}</h2></a>
   <p class="post-subtitle">
-    {{ post.excerpt | strip_html | truncate: 150 }}
+    {{ post.excerpt | strip_html | truncatewords: 30 }} <a href="{{ post_url }}">&gt;&gt;</a>
   </p>
   <p class="post-meta">
     Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
