@@ -321,4 +321,4 @@ switch x {
 
 {% endhighlight %}
 
-If that doesn't interest you enough, skim through the [The Swift Programming Language](https://swift.org/documentation/) ebook to look for more advanced and cool stuff in Swift. If you want to see some examples of Swift code, I got some open source libraries and apps in [GitHub](https://github.com/chrisamanse).
+If that doesn't interest you enough, skim through the [The Swift Programming Language](https://swift.org/documentation/) ebook to look for more advanced and cool stuff in Swift. If you want to see some examples of Swift code, I got some open source libraries and apps in [GitHub](https://github.com/chrisamanse). All of my apps in the [App Store](https://appstore.com/joechristopherpaulamanse?at=1001l9X4&ct=personal_website) are also built using Swift.
