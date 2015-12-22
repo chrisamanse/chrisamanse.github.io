@@ -10,6 +10,7 @@ github_username:  chrisamanse
 facebook_username:  chrisamanse
 
 disqus_enabled: false
+google_analytics_enabled: false
 
 # Build settings
 markdown: kramdown
