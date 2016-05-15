@@ -1,4 +1,4 @@
-# www.chrisamanse.me
+# www.chrisamanse.xyz
 
 My personal website and blog
 
