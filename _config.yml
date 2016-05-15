@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: christopheramanse@gmail.com
 description: "Thoughts, guides, and tips on iOS development, and related software and technology."
 baseurl: ""
-url: "http://www.chrisamanse.me"
+url: "http://www.chrisamanse.xyz"
 twitter_username: ChrisAmanse
 github_username:  chrisamanse
 facebook_username:  chrisamanse
@@ -14,7 +14,7 @@ google_analytics_enabled: true
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:year/:month/:day/:title
 paginate: 6
 paginate_path: /:num/
