@@ -9,6 +9,10 @@ baseurl: /
 # Localhost
 url: http://127.0.0.1:4000
 
+# Disqus
+
+disqus_enabled: true
+
 # Harmony theme configuration. Please change accordingly.
 harmony:
   name: Chris Amanse
