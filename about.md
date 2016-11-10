@@ -7,8 +7,8 @@ header-img: "img/about-bg.jpg"
 
 ---
 
-Hi, my name is Chris Amanse, and I am an iOS developer. Currently, I am finishing my degree in Computer Engineering in Ateneo de Manila University.
+Hi, my name is Chris Amanse, and I am a software engineer, currently focusing on Swift and iOS development. I recently finished my Computer Engineering degree in Ateneo de Manila University last June 2016. Studying computer engineering helped me understand
 
-During my free time, I like to build iOS apps and libraries. I also love open source, so I like to read source codes of projects in GitHub, and to contribute to them as well. I believe open source really helps out software and technology move forward faster. You can look at some of my projects in [GitHub](https://github.com/chrisamanse). If you want to collaborate on a project, you can contact me through my [email](mailto:christopheramanse@gmail.com). You can also connect with me through [Twitter](https://twitter.com/ChrisAmanse).
+I'm passionate in learning and solving problems. I'm interested in automation, and cryptography. With my passion for coding, Swift, and cryptography, I've created a crypto library built in pure Swift called [CryptoKit](https://github.com/chrisamanse/CryptoKit), which is open source and available in GitHub. I'm an open source advocate, and I believe that open source is a huge contribution to the advancement of software and technology. Thus, I often contribute to open source projects, and publish most of my libraries in my [GitHub](https://github.com/chrisamanse).
 
-You can also find some of my apps in the [App Store](http://appstore.com/joechristopherpaulamanse?at=1001l9X4&ct=personal_website). 
+Feel free to contact me through my [email](mailto:christopheramanse@gmail.com), or [Twitter](https://twitter.com/ChrisAmanse).
