@@ -1,27 +1,11 @@
 ---
 layout: page
-title: About me
+title: About Me
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
+Hi, my name is Chris Amanse, and I am a software engineer, currently focusing on Swift and iOS development. I recently finished my Computer Engineering degree in Ateneo de Manila University last June 2016. Studying computer engineering helped me understand
 
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+I'm passionate in learning and solving problems. I'm interested in automation, and cryptography. With my passion for coding, Swift, and cryptography, I've created a crypto library built in pure Swift called [CryptoKit](https://github.com/chrisamanse/CryptoKit), which is open source and available in GitHub. I'm an open source advocate, and I believe that open source is a huge contribution to the advancement of software and technology. Thus, I often read and contribute to open source projects, and publish most of my libraries in my [GitHub](https://github.com/chrisamanse).
 
-### Contact me
-
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
-
-
-[tf]: http://template-factory.nl
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
-[jekyll]: http://jekyllrb.com
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+Feel free to contact me through my [email](mailto:christopheramanse@gmail.com), or [Twitter](https://twitter.com/ChrisAmanse).
