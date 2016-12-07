@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/chrisamanse
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.chrisamanse.xyz
+  * I am chrisamanse (https://keybase.io/chrisamanse) on keybase.
+  * I have a public key with fingerprint 4FF9 D1B2 11A0 F4E8 55D7  8967 E590 F793 FD03 6322
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d2f03f7185c13a2bd592cee13f496bd0d8761cecaa919ef548c2acd689c08ae80a",
+            "fingerprint": "4ff9d1b211a0f4e855d78967e590f793fd036322",
+            "host": "keybase.io",
+            "key_id": "e590f793fd036322",
+            "kid": "0101d2f03f7185c13a2bd592cee13f496bd0d8761cecaa919ef548c2acd689c08ae80a",
+            "uid": "2363a237dfce21978399322883aa1c19",
+            "username": "chrisamanse"
+        },
+        "service": {
+            "hostname": "www.chrisamanse.xyz",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1481078989,
+    "expire_in": 157680000,
+    "prev": "30799d0ba0a6e0d9f3b3149087da5557ea7e896e0d2f4af7a6b61c6fed36bbb1",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QVFUY3kXJ3GJAaKjISG6pZEj3Y+/XQpjxpWIU8Z0mnHvvuXD52F13V3aR
+tBFEQ5EBPxmaUSRAykEcjWQGMqYWFByYGhqVZQaapVVpxXE0RJCis4zN9KOfnT9n
+znmf53mf9zmn2meRSqN+8Ep6S2R70Lz62oSgyoi3uUowwSAVY7oSLB8ubLBAgmZL
+Vr4iYToMJ3BCImWcklmCo0WCAqQg0TwpQkhQspZnBAmXOJYhRCgCwBM8lGktJ5JA
+lBiOF3EOQA4HWBgmK/ocaDKaFL0FyWplmZcIgSQIgMtayNG0xHI8w0Kax2WWp2QJ
+pxiKJBEx12D2MJA5AZhhuGJAd+iQtWDvP/D/s+8dC3IkUgckxUqyCEmCZzmK51E7
+jqMAIESC9wDN0KQHhRChxVyTYgaFQG+G2K4wDBWKFBF6svUM8xRktVrD/wUMtxXv
+RCpGk8FiEA0FCJBrsRh1Hr6l2LhAgELWU6ksQdFLKFBEKIIms2LQYzoCIUWL4tEm
+tByBozw5PgyDNqNiglmKB0GzDIej5WkDizCgwyic5XkJFwAOGIhLvEwJFKHlcY6V
+AE3TLAQsRO+CSqSsBTILGAFFxshQohhBEAjMM912vQHT0cgnyEE2zUqOHlh2mNDo
+mgqv5YtVao3qGW8vz1dTaZb6/fP/zqT5zoPeK03Bh6uDJOLyUF5cxWuj3snJ9U0F
+venTn61p8FYvGgy+PfL18k1jv3wYM5zsO9d2c/r45BJbe8S2uvuNu6V6P827FUf/
+cESxn5y5sbPhUeUH/ilMn+ur/oixljrnrcDc6NVDfuLpYnvbc+vYNOf09WPOLUlp
+CX1epdjQPhB54dvjXUk9OmPL5BoH2LX3ypaqpsnYa9tjphoEB7UtNbR3o31It9h5
+1v2Y1oxp3qr6iYw6ceEWcePJWNnhilWtK7CpzfHuCHVMTtCywOifr6pL7vqGdzyf
+Yq5tvvvjyQl7xwv5syGXrsbMxpX2DXctOXkR+jtNX5Tftpe/HhoU1x1yfSid+f2H
+9r0B/XNu5iA/N9O1vrVwvLTnnczinJvUk9bEgYA743ncuZgjL0rT+7YeUqdc3NCM
+PXpod5V1SoMz03sCEyJTezjuUu13h/pHj6n0Kx9fdmc7Ng2szU7M67sX/3HAYE05
+GetTNylY58sSUsdVXPbST13n/jwxUN9XZ35wb91H3cuiGo9UWjNq4joyT7Ghk6v8
+uydGrO93zoZ0zB0cue8+cH6/ecPnjrIi49k7lkDbwArftojh86fkKNtvbzp2J/41
+k2p978DIS6Mbv2mMXn06o3ltsCuSdprG3b/6xFbCatX3+1+tyvS1l01trql51l5N
+dyZtfehyvf0y9SXXHPtG7Z7MvwE=
+=dlih
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chrisamanse
+
+==================================================================
