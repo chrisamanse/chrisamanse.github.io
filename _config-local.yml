@@ -4,7 +4,7 @@
 baseurl: ""
 
 # Site live URL
-# url: http://www.chrisamanse.xyz
+# url: https://www.chrisamanse.com
 
 # Localhost
 url: http://127.0.0.1:4000
@@ -26,8 +26,8 @@ harmony:
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: Chris Amanse
-    email: chris@chrisamanse.xyz
-    url: http://www.chrisamanse.xyz
+    email: chrisamanse@icloud.com
+    url: https://www.chrisamanse.com
 
   # Google Analytics key, leave blank to ignore
   # google_analytics_key: UA-88363390-1
